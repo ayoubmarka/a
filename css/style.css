@@ -1084,8 +1084,8 @@ section {
   }
 }
  .header .navbar img {
-    width: 150px;
-    height: 50px;
+    width: 80px;
+    height: 20px;
   }
 
 @media (max-width: 768px) {
